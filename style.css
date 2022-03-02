@@ -207,8 +207,15 @@ nav a:hover {
 }
 
 .p1,
+.p2,
 .p3 {
     margin: 0 23%;
+}
+.nwsec {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 hr {
