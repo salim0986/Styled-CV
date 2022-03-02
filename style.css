@@ -338,6 +338,12 @@ hr {
         border-bottom: none;
         height: 0;
     }
+    .nwsec {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 }
 
 @media all and (max-width:600px) and (min-width:350px) {
@@ -432,4 +438,10 @@ hr {
         border-bottom: none;
         height: 0;
     }
+    .nwsec {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 }
