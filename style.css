@@ -324,6 +324,11 @@ hr {
         border-radius: 50%;
         /* float: left; */
     }
+    hr {
+    margin: 0 44%;
+    border: 10px dotted grey;
+    border-bottom: none;
+        height: 0;}
 }
 
 @media all and (max-width:600px) and (min-width:350px) {
@@ -411,5 +416,11 @@ hr {
         width: 100px;
         border-radius: 50%;
         /* float: left; */
+    }
+    hr {
+    margin: 0 44%;
+    border: 5px dotted grey;
+    border-bottom: none;
+    height: 0;
     }
 }
